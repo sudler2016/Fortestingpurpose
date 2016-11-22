@@ -2,3 +2,7 @@ function Anup()
 {
 Print 'Anup'
 }
+function Anup()
+{
+Print 'Anup'
+}
