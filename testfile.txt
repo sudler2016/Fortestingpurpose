@@ -5,6 +5,7 @@ Print 'Anup edit by anup'
 select 'Anup'
 =======
 Print 'Anup'
+Select 'YZ'
 }
 
 function shashank()
