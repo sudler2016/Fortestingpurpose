@@ -1,5 +1,13 @@
 function Anup()
 {
+<<<<<<< HEAD
 Print 'Anup edit by anup'
 select 'Anup'
+=======
+Print 'Anup'
+}
+function Anup()
+{
+Print 'Anup'
+>>>>>>> 3f0b081dfa0f85ab6e0188e764bf52ff7b488f1f
 }
