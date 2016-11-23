@@ -1,8 +1,21 @@
 function Anup()
 {
+<<<<<<< HEAD
 Print 'Anup edit by anup'
+<<<<<<< HEAD
 }
 Function New()
 {
 Print 'This Change is done by Mahesh'
+=======
+select 'Anup'
+=======
+Print 'Anup'
+Select 'YZ'
+}
+
+function shashank()
+{
+Select 'abc'
+>>>>>>> 5c90953504359a0d00d193bebbb42f08b4a92d77
 }
