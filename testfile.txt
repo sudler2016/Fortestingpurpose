@@ -6,9 +6,3 @@ function Anup()
 {
 Print 'Anup'
 }
-
-
-function rafi()
-{
-test
-}
