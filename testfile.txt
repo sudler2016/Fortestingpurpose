@@ -19,3 +19,8 @@ function shashank()
 Select 'abc'
 >>>>>>> 5c90953504359a0d00d193bebbb42f08b4a92d77
 }
+
+function ragini()
+{
+github explanation
+}
