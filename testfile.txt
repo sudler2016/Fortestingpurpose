@@ -6,3 +6,7 @@ function Anup()
 {
 Print 'Anup'
 }
+function Swapnil()
+{
+Print 'Patil'
+}
