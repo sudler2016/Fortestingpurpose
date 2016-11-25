@@ -11,6 +11,6 @@ function Amresh()
 {
 
 Print 'Playing with GitHub'
-Print 'Rafi**'
+Print 'Rafi MD'
 }
 
