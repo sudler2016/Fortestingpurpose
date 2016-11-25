@@ -6,7 +6,14 @@ function Anup()
 {
 Print 'Anup'
 }
+<<<<<<< HEAD
 function Sujata()
 {
 Print 'Sujata'
+=======
+
+function Kamlesh()
+{
+Print 'Kamlesh M Rane'
+>>>>>>> ef11fbd112665c10743c6faf519d07cd17144368
 }
