@@ -11,3 +11,7 @@ function Amresh()
 {
 Print 'Amresh'
 }
+
+{
+Print 'Rafi**'
+}
