@@ -8,5 +8,6 @@ Print 'Anup'
 }
 function Swapnil()
 {
+Print 'Swapnil'
 Print 'Patil'
 }
