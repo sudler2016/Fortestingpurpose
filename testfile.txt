@@ -6,3 +6,8 @@ function Anup()
 {
 Print 'Anup'
 }
+
+function Amresh()
+{
+Print 'Amresh'
+}
