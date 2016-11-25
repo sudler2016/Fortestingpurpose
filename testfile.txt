@@ -9,9 +9,8 @@ Print 'Anup'
 
 function Amresh()
 {
-Print 'Amresh'
-}
 
-{
+Print 'Playing with GitHub'
 Print 'Rafi**'
 }
+
