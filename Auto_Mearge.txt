@@ -1,4 +1,4 @@
 Funtion TestAutoMearge()
 {
-Checking Auto Mearge Feature.
+Checking Auto Merge Feature. (Corrected Text).
 }
