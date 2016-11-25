@@ -1,0 +1,4 @@
+Funtion TestAutoMearge()
+{
+Checking Auto Mearge Feature.
+}
