@@ -1,0 +1,11 @@
+diff a/testfile.txt b/testfile.txt	(rejected hunks)
+@@ -1,4 +1,8 @@
+ function Anup()
+ {
+ Print 'Anup'
++}
++function Anup()
++{
++Print 'Anup'
+ }
+\ No newline at end of file
