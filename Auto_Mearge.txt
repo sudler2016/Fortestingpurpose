@@ -1,0 +1,9 @@
+Funtion TestAutoMearge()
+{
+Checking Auto Mearge Feature.
+}
+
+Funciotn Mahesh()
+{
+From my Work Station.
+}
